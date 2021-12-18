@@ -8,5 +8,5 @@ function compute()
     y2 = y1+t;
     si = p*r*t/100;
     fp = p + si;
-    document.getElementById("p2").innerHTML = "If you deposit "+p+"<br>"+"at an interest rate of "+r+"%."+"<br>"+"You will receive an amount of "+fp+",<br>"+"in the year "+y2;
+    document.getElementById("p2").innerHTML = "If you deposit "+p+"<br>"+"at an interest rate of "+r+"%."+"<br>"+"You will receive an amount of "+si+",<br>"+"in the year "+y2;
 }
