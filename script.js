@@ -13,5 +13,5 @@ function compute()
     document.getElementById("amount").focus();
     }
     else{
-    document.getElementById("p2").innerHTML = "If you deposit "+"<mark>"+p+"</mark>"+"<br>"+"at an interest rate of "+"<mark>"+r+"%."+"</mark>"+"<br>"+"You will receive an amount of "+"<mark>"+si+"</mark>"+"<br>"+"in the year "+"<mark>"+y2+"</mark>";}
+    document.getElementById("p2").innerHTML = "If you deposit "+"<mark>"+p+","+"</mark>"+"<br>"+"at an interest rate of "+"<mark>"+r+"%."+"</mark>"+"<br>"+"You will receive an amount of "+"<mark>"+si+","+"</mark>"+"<br>"+"in the year "+"<mark>"+y2+"</mark>";}
 }
