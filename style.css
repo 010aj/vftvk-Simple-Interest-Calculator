@@ -1,4 +1,33 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {
+    background-color:black;
+    }
+  article{
+    background-color:white; 
+    border: 2px white;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left:40px;
+    margin-right:40px;
+    width:400px;
+    margin: 0 auto;
+    }
+  h1{
+    color:grey; 
+    font-family:Verdana;
+    text-align: center;
+    }
+  form{
+    padding-left: 80px;
+    }
+  input{
+    width:150px;
+  }
+  table{
+    margin: 0 auto;
+  }
+  #cell{
+    width:270px;
+  }
